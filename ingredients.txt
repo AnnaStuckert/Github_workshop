@@ -6,3 +6,5 @@ Bake cake
 Eat it
 
 Trash it
+
+Store it
